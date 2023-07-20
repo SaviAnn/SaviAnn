@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anna Savitskaya</h1>
-<h3 align="center">A passionate Data Scientist with engineering background.</h3>
+<h2 align="left">Hi 👋, I'm Anna Savitskaya</h2>
+<h3 align="left">A passionate Data Scientist with engineering background.</h3>
 
 - 🌱 I’m currently learning **CV and GAN**
 
-- 📝 I wrote an article on [Light & Engineering Journal](Light & Engineering Journal)
+- 📝 I wrote an article on Light & Engineering Journal
 
 - 💬 Ask me about **Why the sky are blue and how UV desinfection works**
 
