@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/anna-savitskaya](www.linkedin.com/in/anna-savitskaya)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
