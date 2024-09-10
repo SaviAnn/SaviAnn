@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋, I'm Anna Savitskaya</h2>
 <h3 align="left">A passionate Data Scientist with engineering background.</h3>
 
-- 🌱 I’m keen on **CV and GAN**
+- 🌱 I’m keen on Machine Learning
 
 - 📝 I wrote a scientific article on Light & Engineering Journal
 
-- 💬 Ask me about **Why the sky are blue and how UV desinfection works**
+- 💬 Ask me about **Why the sky is blue and how UV desinfection works**
 
 - 📫 How to reach me **annasavitskaya.ds@gmail.com.**
 
